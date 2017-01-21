@@ -1,2 +1,3 @@
 # hello-world
-A new place to learn new things
+Hello everybody!
+I´m just new to all of this!
